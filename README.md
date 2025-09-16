@@ -52,4 +52,5 @@ The notebook walks through **data preprocessing, exploratory analysis, model bui
 1. Clone the repo:
    ```bash
    git clone <your-repo-link>
-   cd Sales-Forecasting-Project
+   cd Sales_Forecasting_Dashboard
+   
